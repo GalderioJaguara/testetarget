@@ -8,3 +8,4 @@ do {
 }while(k < indice);
 
 console.log(soma);
+//77
